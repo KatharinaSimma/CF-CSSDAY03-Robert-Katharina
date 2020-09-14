@@ -65,3 +65,26 @@ hr {
 	margin-left: 12%;
 	margin-right:  1%;
 }
+
+.container2{
+
+}
+
+.columnone{
+	display: flex;
+	flex-basis: 40%;
+}
+
+.columntwo{
+	display: flex;
+	flex-basis: 20%;
+	text-align: right;
+	justify-content: flex-end;
+}
+
+.columnthree{
+	display: flex;
+	flex-basis: 20%;
+	text-align: right;
+	justify-content: flex-end;
+}
