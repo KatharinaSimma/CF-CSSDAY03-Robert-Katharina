@@ -1,0 +1,41 @@
+body{
+	background-color:  lightblue;
+	font-family: sans-serif;
+}
+
+
+.links {
+	font-size: 2em;
+	padding:  10%;
+	display:  flex;
+	flex-flow: row;
+	justify-content: space-between;
+	transition: 
+
+
+}
+
+a {
+	height: 5em;
+	width:  5em;
+	border: 2px solid blue;
+	padding:  20px 20px 20px 20px;
+	background-color: skyblue;
+	color: darkblue;
+	text-decoration: none;
+	align-content: center;
+	text-align: center;
+	
+}
+
+#firstlink:hover{
+
+background-color: red;
+}
+
+#secondlink:hover{
+	-webkit-transform: rotate(-360deg);
+	-webkit-transition: all 0.5s ease-in-out;
+	border-radius: 50px;
+
+}
